@@ -26,15 +26,21 @@ While we recommend using Python to find the answers to these questions, it is no
 Which features had a significant effect at $\alpha$ = 0.05$ on the sugar-to-acid ratio? 
 
 ( ) `Temp`
+
 ( ) `Time`
+
 ( ) None 
+
 (X) Both `Temp` and `Time` 
 
 ?: Question
 
 ( ) choice 
+
+( ) choice
+
 ( ) choice 
-( ) choice 
+
 ( ) choice
 
 ???
