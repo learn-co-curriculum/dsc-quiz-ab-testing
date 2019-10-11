@@ -9,7 +9,7 @@ While we recommend using Python to find the answers to these questions, it is no
 ?: Question 1 
 
 
-You design and run an experiment to test if changing the color of a button that will lead users from one page to another on a website leads to a higher click-through rate. You show one version of the website to a random sample of users and another version of the website to a different random sample of users. What kind of hypothesis test do you need to perform? 
+You design an experiment to test if changing the color of a button that leads users from one page to another on a website leads to a higher click-through rate. You show one version of the website to a random sample of users and another version of the website to a different random sample of users. What kind of hypothesis test do you need to perform? 
 
 ( ) one-sample z-test
 
@@ -20,7 +20,30 @@ You design and run an experiment to test if changing the color of a button that 
 (X) unpaired two-sample t-test 
 
 
-?: Question 2 
+?: Question 2
+
+
+You've been asked to design an experiment to test whether job experience is impactful to worker salary. Select all suitable null and alternative hypotheses that you can run to compare the salaries of those with less than 2 years of work experience to the salaries of those with more than 2 years of work experience.
+
+
+[X] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+
+Alternative hypothesis: _The mean salary of workers with less than 2 years of experience is different to the mean salary of workers with more than 2 years of experience._
+
+[X] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+
+Alternative hypothesis: _The mean salary of workers with less than 2 years of experience is less than the mean salary of workers with more than 2 years of experience._
+
+[ ] Null hypothesis: _The mean salary of workers with less than 2 years is less than the mean salary of workers with more than 2 years of experience._ 
+
+Alternative hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+
+[ ] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+
+Alternative hypothesis: _The mean salary of workers with less than 2 years of experience is $10,000 per year._
+
+
+?: Question 3 
 
 
 You’ve been asked to determine if the ratio of sugar to acid content of Satsuma oranges is affected by the storage temperature at which oranges are kept and the number of days the oranges are stored. You obtain data for the sugar-to-acid ratio for oranges kept at temperatures of 4 C, 10 C, or 20 C, and stored for 3, 6, 9, or 12 days. You run an ANOVA test and find the following results:
@@ -36,20 +59,6 @@ Which features had a significant effect at $\alpha$ = 0.05$ on the sugar-to-acid
 ( ) No features had a significant effect. 
 
 (X) Both `Temp` and `Time` 
-
-
-?: Question 3 
-
-
-Here's the text for this question
-
-( ) choice 
-
-( ) choice
-
-( ) choice 
-
-( ) choice
 
 ???
 
