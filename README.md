@@ -46,7 +46,7 @@ Alternative hypothesis: _The mean salary of workers with less than 2 years of ex
 ?: Question 3 
 
 
-You’ve been asked to determine if the ratio of sugar to acid content of Satsuma oranges is affected by the storage temperature at which oranges are kept and the number of days the oranges are stored. You obtain data for the sugar-to-acid ratio for oranges kept at temperatures of 4 C, 10 C, or 20 C, and stored for 3, 6, 9, or 12 days. You run an ANOVA test and find the following results:
+You’ve been asked to determine if the ratio of sugar to acid content of Satsuma oranges is affected by the storage temperature at which oranges are kept, `Temp`, and the number of days the oranges are stored, `Time`. You obtain data for the sugar-to-acid ratio for oranges kept at temperatures of 4 C, 10 C, or 20 C, and stored for 3, 6, 9, or 12 days. You run an ANOVA test and find the following results:
 
 ![ANOVA table](https://raw.githubusercontent.com/learn-co-curriculum/dsc-quiz-ab-testing/master/images/satsuma_anova_table.png)
 
