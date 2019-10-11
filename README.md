@@ -26,19 +26,19 @@ You design an experiment to test if changing the color of a button that leads us
 You've been asked to design an experiment to test whether job experience is impactful to worker salary. Select all suitable null and alternative hypotheses that you can run to compare the salaries of those with less than 2 years of work experience to the salaries of those with more than 2 years of work experience.
 
 
-[X] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+[X] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the mean salary of workers with more than 2 years of experience._
 
 Alternative hypothesis: _The mean salary of workers with less than 2 years of experience is different to the mean salary of workers with more than 2 years of experience._
 
-[X] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+[X] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the mean salary of workers with more than 2 years of experience._
 
 Alternative hypothesis: _The mean salary of workers with less than 2 years of experience is less than the mean salary of workers with more than 2 years of experience._
 
 [ ] Null hypothesis: _The mean salary of workers with less than 2 years is less than the mean salary of workers with more than 2 years of experience._ 
 
-Alternative hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+Alternative hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the mean salary of workers with more than 2 years of experience._
 
-[ ] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the meann salary of workers with more than 2 years of experience._
+[ ] Null hypothesis: _There is no difference in the mean salary of workers with less than 2 years and the mean salary of workers with more than 2 years of experience._
 
 Alternative hypothesis: _The mean salary of workers with less than 2 years of experience is $10,000 per year._
 
